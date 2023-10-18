@@ -1,0 +1,19 @@
+Extension: better comments
+Plugin: react redux
+Git : git easy
+Prettier: code formatting
+Vs code icons
+
+
+
+LIBRARY: minimum effort to put it inside the code ex: carousel 
+FRAMEWORK: whole app , everything is made in that framework 
+
+React: library because we can inject it easily in the code 
+
+
+CDN : content delivery network, used to inject react into a js file 
+
+
+What is Emmet???
+

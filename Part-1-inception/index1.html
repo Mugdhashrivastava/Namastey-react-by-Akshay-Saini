@@ -10,8 +10,47 @@
     <div id="root"></div>
 </body>
 <!-- injecting react using cdn  -->
+<!-- @18th version of react -->
 <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+<!-- dom means webversion of the file  -->
 <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
 
 <!-- go to console and do "React" you will be able to see what react has done and we can access other react functionalities too -->
+
+
+
+
+<!-- pure react  -->
+<script>
+    // first argument : element to crate
+    // second argument:object,
+    // third argument:what to write inside elemet
+    const heading = React.createElement("h1",{},"Namaste react by mugzzz....!!!");
+    
+
+    /*to put inside html div root
+    ReactDOM : second library that we injected using cdn */
+    const root =  ReactDOM.createRoot(document.getElementById("root"));
+
+
+       // parsing a react element inside the root
+    root.render(heading);
+
+
+
+
+
+    // console.log returns a pure js object of h1 type
+    console.log(heading);
+
+
+    // conclusion: react element is an object at the end of the day 
+
+
+    // obviously you can write normal js here too 
+
+    // in one app only one root and one render function will be there
+
+
+</script>
 </html>

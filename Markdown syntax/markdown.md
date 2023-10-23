@@ -1,4 +1,4 @@
-##NOTE
+## NOTE
 
     1. .md file is used to create markdown files.
         mainly used in githubs README too

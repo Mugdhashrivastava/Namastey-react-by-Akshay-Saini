@@ -1,0 +1,25 @@
+{
+  "name": "02igniteapp",
+  "version": "1.0.0",
+  "description": "react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mugdha",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mugdhashrivastava/Namastey-react-by-Akshay-Saini.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "bugs": {
+    "url": "https://github.com/Mugdhashrivastava/Namastey-react-by-Akshay-Saini/issues"
+  },
+  "homepage": "https://github.com/Mugdhashrivastava/Namastey-react-by-Akshay-Saini#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
